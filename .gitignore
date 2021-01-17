@@ -1,0 +1,6 @@
+venv
+**/__pycache__/**
+email_sender
+**/email_sender/**
+main.spec
+build
